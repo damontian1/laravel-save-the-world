@@ -18,7 +18,7 @@
     <!-- Fancybox Plugin CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
     <!-- User CSS -->
-    <link href={{ asset('css/app.css') }} rel="stylesheet">
+    <link href='/css/app.css' rel="stylesheet">
 </head>
 <body style="display: flex; flex-direction: column; min-height: 100vh;">
     @include("partials.navbar")
@@ -34,6 +34,6 @@
     <!-- Google Maps -->
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCOVdVZ3zaOCmKcbrD0MV7TyKJbFbIOpqk"></script>
     <!-- User JavaScript -->
-    <script src={{ asset('js/app.js') }}></script>
+    <script src='/js/app.js'></script>
 </body>
 </html>
