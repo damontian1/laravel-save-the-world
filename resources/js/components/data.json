@@ -1,0 +1,2788 @@
+[
+  {
+    "data": {
+      "id": 46433103,
+      "organization_id": "CT397",
+      "url": "https://www.petfinder.com/dog/carmen-46433103/ct/middletown/wagging-tails-dog-rescue-ct397/?referrer_id=7ff2924e-00c7-461e-b506-ff3a48a51140",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Hound",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Carmen",
+      "description": "Hi my name is Carmen. I am a 1 year old Hound mix.  I weigh about 50 pounds.  I am...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433103/1/?bust=1572493540u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433103/1/?bust=1572493540u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433103/1/?bust=1572493540u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433103/1/?bust=1572493540"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433103/3/?bust=1572493578u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433103/3/?bust=1572493578u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433103/3/?bust=1572493578u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433103/3/?bust=1572493578"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-10-31T03:49:10+0000",
+      "published_at": "2019-10-31T03:49:10+0000",
+      "distance": 72.9612,
+      "contact": {
+        "email": "beata778@yahoo.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Middletown",
+          "state": "CT",
+          "postcode": "06457",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/46433103"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ct397"
+        }
+      }
+    },
+    "age": "Young",
+    "coat": null,
+    "contact": {
+      "email": "beata778@yahoo.com",
+      "phone": null,
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Middletown",
+        "state": "CT",
+        "postcode": "06457",
+        "country": "US"
+      }
+    },
+    "description": "Hi my name is Carmen. I am a 1 year old Hound mix.  I weigh about 50 pounds.  I am...",
+    "gender": "Female",
+    "id": 46433103,
+    "name": "Carmen",
+    "organization_id": "CT397",
+    "photos": [
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433103/1/?bust=1572493540u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433103/1/?bust=1572493540u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433103/1/?bust=1572493540u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433103/1/?bust=1572493540"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433103/3/?bust=1572493578u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433103/3/?bust=1572493578u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433103/3/?bust=1572493578u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433103/3/?bust=1572493578"
+      }
+    ],
+    "species": "Dog",
+    "size": "Medium",
+    "status": "adoptable",
+    "type": "Dog"
+  },
+  {
+    "data": {
+      "id": 46432993,
+      "organization_id": "NJ627",
+      "url": "https://www.petfinder.com/dog/bobby-46432993/nj/paramus/bonnies-animal-rescue-kingdom-nj627/?referrer_id=7ff2924e-00c7-461e-b506-ff3a48a51140",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Beagle",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tricolor (Brown, Black, u0026 White)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Bobby",
+      "description": "Bobby is a two year old male beagle who was recently rescued from a high kill shelter in North Carolina....",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432993/1/?bust=1572491233u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432993/1/?bust=1572491233u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432993/1/?bust=1572491233u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432993/1/?bust=1572491233"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-10-31T03:16:08+0000",
+      "published_at": "2019-10-31T03:16:08+0000",
+      "distance": 21.2097,
+      "contact": {
+        "email": "Boniark15@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Paramus",
+          "state": "NJ",
+          "postcode": "07653",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/46432993"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/nj627"
+        }
+      }
+    },
+    "age": "Adult",
+    "coat": "Short",
+    "contact": {
+      "email": "Boniark15@gmail.com",
+      "phone": null,
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Paramus",
+        "state": "NJ",
+        "postcode": "07653",
+        "country": "US"
+      }
+    },
+    "description": "Bobby is a two year old male beagle who was recently rescued from a high kill shelter in North Carolina....",
+    "gender": "Male",
+    "id": 46432993,
+    "name": "Bobby",
+    "organization_id": "NJ627",
+    "photos": [
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432993/1/?bust=1572491233u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432993/1/?bust=1572491233u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432993/1/?bust=1572491233u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432993/1/?bust=1572491233"
+      }
+    ],
+    "species": "Dog",
+    "size": "Medium",
+    "status": "adoptable",
+    "type": "Dog"
+  },
+  {
+    "data": {
+      "id": 46433020,
+      "organization_id": "NJ627",
+      "url": "https://www.petfinder.com/dog/benny-46433020/nj/paramus/bonnies-animal-rescue-kingdom-nj627/?referrer_id=7ff2924e-00c7-461e-b506-ff3a48a51140",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Beagle",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tricolor (Brown, Black, u0026 White)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Benny",
+      "description": "Benny is a two year old male beagle who was recently rescued from a high kill shelter in North Carolina....",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433020/1/?bust=1572491852u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433020/1/?bust=1572491852u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433020/1/?bust=1572491852u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433020/1/?bust=1572491852"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-10-31T03:19:41+0000",
+      "published_at": "2019-10-31T03:19:41+0000",
+      "distance": 21.2097,
+      "contact": {
+        "email": "Boniark15@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Paramus",
+          "state": "NJ",
+          "postcode": "07653",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/46433020"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/nj627"
+        }
+      }
+    },
+    "age": "Adult",
+    "coat": "Short",
+    "contact": {
+      "email": "Boniark15@gmail.com",
+      "phone": null,
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Paramus",
+        "state": "NJ",
+        "postcode": "07653",
+        "country": "US"
+      }
+    },
+    "description": "Benny is a two year old male beagle who was recently rescued from a high kill shelter in North Carolina....",
+    "gender": "Male",
+    "id": 46433020,
+    "name": "Benny",
+    "organization_id": "NJ627",
+    "photos": [
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433020/1/?bust=1572491852u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433020/1/?bust=1572491852u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433020/1/?bust=1572491852u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433020/1/?bust=1572491852"
+      }
+    ],
+    "species": "Dog",
+    "size": "Medium",
+    "status": "adoptable",
+    "type": "Dog"
+  },
+  {
+    "data": {
+      "id": 46433378,
+      "organization_id": "CT397",
+      "url": "https://www.petfinder.com/dog/selene-46433378/ct/middletown/wagging-tails-dog-rescue-ct397/?referrer_id=7ff2924e-00c7-461e-b506-ff3a48a51140",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Black Labrador Retriever",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Selene",
+      "description": "Hi my name is Selenen I am about 1.5 years old.  I sm a sweet labbie girl who likes to...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433378/1/?bust=1572496527u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433378/1/?bust=1572496527u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433378/1/?bust=1572496527u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433378/1/?bust=1572496527"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-10-31T04:37:00+0000",
+      "published_at": "2019-10-31T04:37:00+0000",
+      "distance": 72.9612,
+      "contact": {
+        "email": "beata778@yahoo.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Middletown",
+          "state": "CT",
+          "postcode": "06457",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/46433378"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ct397"
+        }
+      }
+    },
+    "age": "Young",
+    "coat": null,
+    "contact": {
+      "email": "beata778@yahoo.com",
+      "phone": null,
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Middletown",
+        "state": "CT",
+        "postcode": "06457",
+        "country": "US"
+      }
+    },
+    "description": "Hi my name is Selenen I am about 1.5 years old.  I sm a sweet labbie girl who likes to...",
+    "gender": "Female",
+    "id": 46433378,
+    "name": "Selene",
+    "organization_id": "CT397",
+    "photos": [
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433378/1/?bust=1572496527u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433378/1/?bust=1572496527u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433378/1/?bust=1572496527u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433378/1/?bust=1572496527"
+      }
+    ],
+    "species": "Dog",
+    "size": "Medium",
+    "status": "adoptable",
+    "type": "Dog"
+  },
+  {
+    "data": {
+      "id": 46433357,
+      "organization_id": "CT397",
+      "url": "https://www.petfinder.com/dog/bo-46433357/ct/middletown/wagging-tails-dog-rescue-ct397/?referrer_id=7ff2924e-00c7-461e-b506-ff3a48a51140",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Pit Bull Terrier",
+        "secondary": "Black Mouth Cur",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Bo",
+      "description": "Hi my name is Bo.  I am a 1.5 year old Pitie/ Cur mix.  I am a sweet boy who...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433357/1/?bust=1572495689u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433357/1/?bust=1572495689u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433357/1/?bust=1572495689u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433357/1/?bust=1572495689"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-10-31T04:23:06+0000",
+      "published_at": "2019-10-31T04:23:06+0000",
+      "distance": 72.9612,
+      "contact": {
+        "email": "beata778@yahoo.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Middletown",
+          "state": "CT",
+          "postcode": "06457",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/46433357"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ct397"
+        }
+      }
+    },
+    "age": "Young",
+    "coat": null,
+    "contact": {
+      "email": "beata778@yahoo.com",
+      "phone": null,
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Middletown",
+        "state": "CT",
+        "postcode": "06457",
+        "country": "US"
+      }
+    },
+    "description": "Hi my name is Bo.  I am a 1.5 year old Pitie/ Cur mix.  I am a sweet boy who...",
+    "gender": "Male",
+    "id": 46433357,
+    "name": "Bo",
+    "organization_id": "CT397",
+    "photos": [
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433357/1/?bust=1572495689u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433357/1/?bust=1572495689u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433357/1/?bust=1572495689u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433357/1/?bust=1572495689"
+      }
+    ],
+    "species": "Dog",
+    "size": "Large",
+    "status": "adoptable",
+    "type": "Dog"
+  },
+  {
+    "data": {
+      "id": 46433364,
+      "organization_id": "PA247",
+      "url": "https://www.petfinder.com/dog/fluffy-46433364/pa/philadelphia/morris-animal-refuge-pa247/?referrer_id=7ff2924e-00c7-461e-b506-ff3a48a51140",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Siberian Husky",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "White / Cream",
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Fluffy",
+      "description": "Happy boy Fluffy is friendly and full of fun! This high energy guy isnu0026#039;t sure what he wants to be...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433364/1/?bust=1572496193u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433364/1/?bust=1572496193u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433364/1/?bust=1572496193u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433364/1/?bust=1572496193"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-10-31T04:30:43+0000",
+      "published_at": "2019-10-31T04:30:43+0000",
+      "distance": 98.7876,
+      "contact": {
+        "email": "adoptions@morrisanimalrefuge.org",
+        "phone": "(215) 735-3256",
+        "address": {
+          "address1": "1242 Lombard Street",
+          "address2": null,
+          "city": "Philadelphia",
+          "state": "PA",
+          "postcode": "19147",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/46433364"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/pa247"
+        }
+      }
+    },
+    "age": "Young",
+    "coat": "Medium",
+    "contact": {
+      "email": "adoptions@morrisanimalrefuge.org",
+      "phone": "(215) 735-3256",
+      "address": {
+        "address1": "1242 Lombard Street",
+        "address2": null,
+        "city": "Philadelphia",
+        "state": "PA",
+        "postcode": "19147",
+        "country": "US"
+      }
+    },
+    "description": "Happy boy Fluffy is friendly and full of fun! This high energy guy isnu0026#039;t sure what he wants to be...",
+    "gender": "Male",
+    "id": 46433364,
+    "name": "Fluffy",
+    "organization_id": "PA247",
+    "photos": [
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433364/1/?bust=1572496193u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433364/1/?bust=1572496193u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433364/1/?bust=1572496193u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433364/1/?bust=1572496193"
+      }
+    ],
+    "species": "Dog",
+    "size": "Medium",
+    "status": "adoptable",
+    "type": "Dog"
+  },
+  {
+    "data": {
+      "id": 46433053,
+      "organization_id": "NJ627",
+      "url": "https://www.petfinder.com/dog/wilson-46433053/nj/paramus/bonnies-animal-rescue-kingdom-nj627/?referrer_id=7ff2924e-00c7-461e-b506-ff3a48a51140",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Beagle",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tricolor (Brown, Black, u0026 White)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Wilson",
+      "description": "Wilson is approx 6 years old, male beagle who was recently rescued from a high kill shelter in North Carolina....",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433053/1/?bust=1572492726u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433053/1/?bust=1572492726u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433053/1/?bust=1572492726u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433053/1/?bust=1572492726"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-10-31T03:37:08+0000",
+      "published_at": "2019-10-31T03:37:08+0000",
+      "distance": 21.2097,
+      "contact": {
+        "email": "Boniark15@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Paramus",
+          "state": "NJ",
+          "postcode": "07653",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/46433053"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/nj627"
+        }
+      }
+    },
+    "age": "Adult",
+    "coat": "Short",
+    "contact": {
+      "email": "Boniark15@gmail.com",
+      "phone": null,
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Paramus",
+        "state": "NJ",
+        "postcode": "07653",
+        "country": "US"
+      }
+    },
+    "description": "Wilson is approx 6 years old, male beagle who was recently rescued from a high kill shelter in North Carolina....",
+    "gender": "Male",
+    "id": 46433053,
+    "name": "Wilson",
+    "organization_id": "NJ627",
+    "photos": [
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433053/1/?bust=1572492726u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433053/1/?bust=1572492726u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433053/1/?bust=1572492726u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433053/1/?bust=1572492726"
+      }
+    ],
+    "species": "Dog",
+    "size": "Small",
+    "status": "adoptable",
+    "type": "Dog"
+  },
+  {
+    "data": {
+      "id": 46433096,
+      "organization_id": "CT397",
+      "url": "https://www.petfinder.com/dog/baxter-46433096/ct/middletown/wagging-tails-dog-rescue-ct397/?referrer_id=7ff2924e-00c7-461e-b506-ff3a48a51140",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Black Labrador Retriever",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Baxter",
+      "description": "Hi my name is Baxter.  I am a 4 year old Lab. I am a goid boy who loves everyone...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433096/1/?bust=1572493323u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433096/1/?bust=1572493323u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433096/1/?bust=1572493323u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433096/1/?bust=1572493323"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-10-31T03:43:38+0000",
+      "published_at": "2019-10-31T03:43:38+0000",
+      "distance": 72.9612,
+      "contact": {
+        "email": "beata778@yahoo.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Middletown",
+          "state": "CT",
+          "postcode": "06457",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/46433096"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ct397"
+        }
+      }
+    },
+    "age": "Adult",
+    "coat": null,
+    "contact": {
+      "email": "beata778@yahoo.com",
+      "phone": null,
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Middletown",
+        "state": "CT",
+        "postcode": "06457",
+        "country": "US"
+      }
+    },
+    "description": "Hi my name is Baxter.  I am a 4 year old Lab. I am a goid boy who loves everyone...",
+    "gender": "Male",
+    "id": 46433096,
+    "name": "Baxter",
+    "organization_id": "CT397",
+    "photos": [
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433096/1/?bust=1572493323u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433096/1/?bust=1572493323u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433096/1/?bust=1572493323u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433096/1/?bust=1572493323"
+      }
+    ],
+    "species": "Dog",
+    "size": "Medium",
+    "status": "adoptable",
+    "type": "Dog"
+  },
+  {
+    "data": {
+      "id": 46433336,
+      "organization_id": "CT397",
+      "url": "https://www.petfinder.com/dog/ted-46433336/ct/middletown/wagging-tails-dog-rescue-ct397/?referrer_id=7ff2924e-00c7-461e-b506-ff3a48a51140",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Bluetick Coonhound",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Ted",
+      "description": "Hi my name is Ted.  I am just under a year old.  I sm a Coonhound. I sm a very...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433336/1/?bust=1572495082u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433336/1/?bust=1572495082u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433336/1/?bust=1572495082u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433336/1/?bust=1572495082"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-10-31T04:13:02+0000",
+      "published_at": "2019-10-31T04:13:02+0000",
+      "distance": 72.9612,
+      "contact": {
+        "email": "beata778@yahoo.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Middletown",
+          "state": "CT",
+          "postcode": "06457",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/46433336"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ct397"
+        }
+      }
+    },
+    "age": "Young",
+    "coat": null,
+    "contact": {
+      "email": "beata778@yahoo.com",
+      "phone": null,
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Middletown",
+        "state": "CT",
+        "postcode": "06457",
+        "country": "US"
+      }
+    },
+    "description": "Hi my name is Ted.  I am just under a year old.  I sm a Coonhound. I sm a very...",
+    "gender": "Male",
+    "id": 46433336,
+    "name": "Ted",
+    "organization_id": "CT397",
+    "photos": [
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433336/1/?bust=1572495082u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433336/1/?bust=1572495082u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433336/1/?bust=1572495082u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433336/1/?bust=1572495082"
+      }
+    ],
+    "species": "Dog",
+    "size": "Large",
+    "status": "adoptable",
+    "type": "Dog"
+  },
+  {
+    "data": {
+      "id": 46433043,
+      "organization_id": "NJ627",
+      "url": "https://www.petfinder.com/dog/barry-46433043/nj/paramus/bonnies-animal-rescue-kingdom-nj627/?referrer_id=7ff2924e-00c7-461e-b506-ff3a48a51140",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Beagle",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tricolor (Brown, Black, u0026 White)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Barry",
+      "description": "Barry is a two year old male beagle who was recently rescued from a high kill shelter in North Carolina....",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433043/1/?bust=1572492366u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433043/1/?bust=1572492366u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433043/1/?bust=1572492366u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433043/1/?bust=1572492366"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-10-31T03:27:35+0000",
+      "published_at": "2019-10-31T03:27:35+0000",
+      "distance": 21.2097,
+      "contact": {
+        "email": "Boniark15@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Paramus",
+          "state": "NJ",
+          "postcode": "07653",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/46433043"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/nj627"
+        }
+      }
+    },
+    "age": "Adult",
+    "coat": "Short",
+    "contact": {
+      "email": "Boniark15@gmail.com",
+      "phone": null,
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Paramus",
+        "state": "NJ",
+        "postcode": "07653",
+        "country": "US"
+      }
+    },
+    "description": "Barry is a two year old male beagle who was recently rescued from a high kill shelter in North Carolina....",
+    "gender": "Male",
+    "id": 46433043,
+    "name": "Barry",
+    "organization_id": "NJ627",
+    "photos": [
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433043/1/?bust=1572492366u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433043/1/?bust=1572492366u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433043/1/?bust=1572492366u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433043/1/?bust=1572492366"
+      }
+    ],
+    "species": "Dog",
+    "size": "Medium",
+    "status": "adoptable",
+    "type": "Dog"
+  },
+  {
+    "data": {
+      "id": 46433095,
+      "organization_id": "NY1203",
+      "url": "https://www.petfinder.com/dog/skylar-46433095/ny/brooklyn/sharp-of-ny-ny1203/?referrer_id=7ff2924e-00c7-461e-b506-ff3a48a51140",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "West Highland White Terrier / Westie",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White / Cream",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Small",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [
+        "Loving",
+        "cuddly",
+        "exhuberant",
+        "energetic",
+        "playful"
+      ],
+      "name": "Skylar",
+      "description": "Skylar is a Westie loveru0026#039;s dream! He has the best of the breedu0026#039;s temperament: loves walks, playing with toys, and...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433095/1/?bust=1572493436u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433095/1/?bust=1572493436u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433095/1/?bust=1572493436u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433095/1/?bust=1572493436"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433095/2/?bust=1572493796u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433095/2/?bust=1572493796u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433095/2/?bust=1572493796u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433095/2/?bust=1572493796"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433095/3/?bust=1572493825u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433095/3/?bust=1572493825u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433095/3/?bust=1572493825u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433095/3/?bust=1572493825"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-10-31T03:55:15+0000",
+      "published_at": "2019-10-31T03:55:15+0000",
+      "distance": 17.5302,
+      "contact": {
+        "email": "TECHIETURNOVER@GMAIL.COM",
+        "phone": "5186054101",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "BROOKLYN",
+          "state": "NY",
+          "postcode": "11238",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/46433095"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ny1203"
+        }
+      }
+    },
+    "age": "Adult",
+    "coat": "Medium",
+    "contact": {
+      "email": "TECHIETURNOVER@GMAIL.COM",
+      "phone": "5186054101",
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "BROOKLYN",
+        "state": "NY",
+        "postcode": "11238",
+        "country": "US"
+      }
+    },
+    "description": "Skylar is a Westie loveru0026#039;s dream! He has the best of the breedu0026#039;s temperament: loves walks, playing with toys, and...",
+    "gender": "Male",
+    "id": 46433095,
+    "name": "Skylar",
+    "organization_id": "NY1203",
+    "photos": [
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433095/1/?bust=1572493436u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433095/1/?bust=1572493436u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433095/1/?bust=1572493436u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433095/1/?bust=1572493436"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433095/2/?bust=1572493796u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433095/2/?bust=1572493796u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433095/2/?bust=1572493796u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433095/2/?bust=1572493796"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433095/3/?bust=1572493825u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433095/3/?bust=1572493825u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433095/3/?bust=1572493825u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433095/3/?bust=1572493825"
+      }
+    ],
+    "species": "Dog",
+    "size": "Small",
+    "status": "adoptable",
+    "type": "Dog"
+  },
+  {
+    "data": {
+      "id": 46433372,
+      "organization_id": "PA247",
+      "url": "https://www.petfinder.com/dog/jax-46433372/pa/philadelphia/morris-animal-refuge-pa247/?referrer_id=7ff2924e-00c7-461e-b506-ff3a48a51140",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Shepherd",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "Yellow / Tan / Blond / Fawn",
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Large",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Jax",
+      "description": "Jax is an extremely handsome gentleman looking for a person to call his own. He has a heart murmur. You...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433372/1/?bust=1572496522u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433372/1/?bust=1572496522u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433372/1/?bust=1572496522u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433372/1/?bust=1572496522"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-10-31T04:37:32+0000",
+      "published_at": "2019-10-31T04:37:32+0000",
+      "distance": 98.7876,
+      "contact": {
+        "email": "adoptions@morrisanimalrefuge.org",
+        "phone": "(215) 735-3256",
+        "address": {
+          "address1": "1242 Lombard Street",
+          "address2": null,
+          "city": "Philadelphia",
+          "state": "PA",
+          "postcode": "19147",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/46433372"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/pa247"
+        }
+      }
+    },
+    "age": "Adult",
+    "coat": "Short",
+    "contact": {
+      "email": "adoptions@morrisanimalrefuge.org",
+      "phone": "(215) 735-3256",
+      "address": {
+        "address1": "1242 Lombard Street",
+        "address2": null,
+        "city": "Philadelphia",
+        "state": "PA",
+        "postcode": "19147",
+        "country": "US"
+      }
+    },
+    "description": "Jax is an extremely handsome gentleman looking for a person to call his own. He has a heart murmur. You...",
+    "gender": "Male",
+    "id": 46433372,
+    "name": "Jax",
+    "organization_id": "PA247",
+    "photos": [
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433372/1/?bust=1572496522u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433372/1/?bust=1572496522u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433372/1/?bust=1572496522u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433372/1/?bust=1572496522"
+      }
+    ],
+    "species": "Dog",
+    "size": "Large",
+    "status": "adoptable",
+    "type": "Dog"
+  },
+  {
+    "data": {
+      "id": 46433124,
+      "organization_id": "CT397",
+      "url": "https://www.petfinder.com/dog/laverne-46433124/ct/middletown/wagging-tails-dog-rescue-ct397/?referrer_id=7ff2924e-00c7-461e-b506-ff3a48a51140",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Terrier",
+        "secondary": "Pit Bull Terrier",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Laverne",
+      "description": "Hi my name is Laverne.  I am a 4 month old Terrier/ Pitie mix.  I am a sweet girl who...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433124/1/?bust=1572493884u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433124/1/?bust=1572493884u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433124/1/?bust=1572493884u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433124/1/?bust=1572493884"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-10-31T03:53:49+0000",
+      "published_at": "2019-10-31T03:53:49+0000",
+      "distance": 72.9612,
+      "contact": {
+        "email": "beata778@yahoo.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Middletown",
+          "state": "CT",
+          "postcode": "06457",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/46433124"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ct397"
+        }
+      }
+    },
+    "age": "Baby",
+    "coat": null,
+    "contact": {
+      "email": "beata778@yahoo.com",
+      "phone": null,
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Middletown",
+        "state": "CT",
+        "postcode": "06457",
+        "country": "US"
+      }
+    },
+    "description": "Hi my name is Laverne.  I am a 4 month old Terrier/ Pitie mix.  I am a sweet girl who...",
+    "gender": "Female",
+    "id": 46433124,
+    "name": "Laverne",
+    "organization_id": "CT397",
+    "photos": [
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433124/1/?bust=1572493884u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433124/1/?bust=1572493884u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433124/1/?bust=1572493884u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433124/1/?bust=1572493884"
+      }
+    ],
+    "species": "Dog",
+    "size": "Medium",
+    "status": "adoptable",
+    "type": "Dog"
+  },
+  {
+    "data": {
+      "id": 46432661,
+      "organization_id": "CT552",
+      "url": "https://www.petfinder.com/dog/hercules-46432661/ct/ridgefield/looking-glass-animal-rescue-ct552/?referrer_id=7ff2924e-00c7-461e-b506-ff3a48a51140",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Hercules",
+      "description": "Hercules and his 5 siblings were stuck in a high kill shelter in Louisiana with their Mom when the whole...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432661/1/?bust=1572486692u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432661/1/?bust=1572486692u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432661/1/?bust=1572486692u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432661/1/?bust=1572486692"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432661/2/?bust=1572486691u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432661/2/?bust=1572486691u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432661/2/?bust=1572486691u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432661/2/?bust=1572486691"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432661/3/?bust=1572486692u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432661/3/?bust=1572486692u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432661/3/?bust=1572486692u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432661/3/?bust=1572486692"
+        }
+      ],
+      "status": "adopted",
+      "status_changed_at": "2019-10-31T01:46:26+0000",
+      "published_at": "2019-10-31T01:46:26+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@lgarinc.org",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Ridgefield",
+          "state": "CT",
+          "postcode": "06877",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/46432661"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ct552"
+        }
+      }
+    },
+    "age": "Baby",
+    "coat": null,
+    "contact": {
+      "email": "adopt@lgarinc.org",
+      "phone": null,
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Ridgefield",
+        "state": "CT",
+        "postcode": "06877",
+        "country": "US"
+      }
+    },
+    "description": "Hercules and his 5 siblings were stuck in a high kill shelter in Louisiana with their Mom when the whole...",
+    "gender": "Male",
+    "id": 46432661,
+    "name": "Hercules",
+    "organization_id": "CT552",
+    "photos": [
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432661/1/?bust=1572486692u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432661/1/?bust=1572486692u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432661/1/?bust=1572486692u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432661/1/?bust=1572486692"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432661/2/?bust=1572486691u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432661/2/?bust=1572486691u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432661/2/?bust=1572486691u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432661/2/?bust=1572486691"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432661/3/?bust=1572486692u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432661/3/?bust=1572486692u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432661/3/?bust=1572486692u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432661/3/?bust=1572486692"
+      }
+    ],
+    "species": "Dog",
+    "size": "Medium",
+    "status": "adopted",
+    "type": "Dog"
+  },
+  {
+    "data": {
+      "id": 46433323,
+      "organization_id": "CT397",
+      "url": "https://www.petfinder.com/dog/lilly-46433323/ct/middletown/wagging-tails-dog-rescue-ct397/?referrer_id=7ff2924e-00c7-461e-b506-ff3a48a51140",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Pit Bull Terrier",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Lilly",
+      "description": "Hi my name is Lilly.  I am about 2 yrs old.  I am a super sweet Pitie.  I am an...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433323/1/?bust=1572494788u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433323/1/?bust=1572494788u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433323/1/?bust=1572494788u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433323/1/?bust=1572494788"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-10-31T04:08:55+0000",
+      "published_at": "2019-10-31T04:08:55+0000",
+      "distance": 72.9612,
+      "contact": {
+        "email": "beata778@yahoo.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Middletown",
+          "state": "CT",
+          "postcode": "06457",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/46433323"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ct397"
+        }
+      }
+    },
+    "age": "Young",
+    "coat": null,
+    "contact": {
+      "email": "beata778@yahoo.com",
+      "phone": null,
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Middletown",
+        "state": "CT",
+        "postcode": "06457",
+        "country": "US"
+      }
+    },
+    "description": "Hi my name is Lilly.  I am about 2 yrs old.  I am a super sweet Pitie.  I am an...",
+    "gender": "Female",
+    "id": 46433323,
+    "name": "Lilly",
+    "organization_id": "CT397",
+    "photos": [
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433323/1/?bust=1572494788u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433323/1/?bust=1572494788u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433323/1/?bust=1572494788u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433323/1/?bust=1572494788"
+      }
+    ],
+    "species": "Dog",
+    "size": "Medium",
+    "status": "adoptable",
+    "type": "Dog"
+  },
+  {
+    "data": {
+      "id": 46433132,
+      "organization_id": "CT397",
+      "url": "https://www.petfinder.com/dog/shirley-46433132/ct/middletown/wagging-tails-dog-rescue-ct397/?referrer_id=7ff2924e-00c7-461e-b506-ff3a48a51140",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Terrier",
+        "secondary": "Pit Bull Terrier",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Shirley",
+      "description": "Hi my name is Shirley.  I am a 4 month old Terrier/ Pitie mix.  I am very sweet and learning...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433132/1/?bust=1572494098u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433132/1/?bust=1572494098u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433132/1/?bust=1572494098u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433132/1/?bust=1572494098"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-10-31T03:56:53+0000",
+      "published_at": "2019-10-31T03:56:53+0000",
+      "distance": 72.9612,
+      "contact": {
+        "email": "beata778@yahoo.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Middletown",
+          "state": "CT",
+          "postcode": "06457",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/46433132"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ct397"
+        }
+      }
+    },
+    "age": "Baby",
+    "coat": null,
+    "contact": {
+      "email": "beata778@yahoo.com",
+      "phone": null,
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Middletown",
+        "state": "CT",
+        "postcode": "06457",
+        "country": "US"
+      }
+    },
+    "description": "Hi my name is Shirley.  I am a 4 month old Terrier/ Pitie mix.  I am very sweet and learning...",
+    "gender": "Female",
+    "id": 46433132,
+    "name": "Shirley",
+    "organization_id": "CT397",
+    "photos": [
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433132/1/?bust=1572494098u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433132/1/?bust=1572494098u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433132/1/?bust=1572494098u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433132/1/?bust=1572494098"
+      }
+    ],
+    "species": "Dog",
+    "size": "Medium",
+    "status": "adoptable",
+    "type": "Dog"
+  },
+  {
+    "data": {
+      "id": 46433036,
+      "organization_id": "NJ627",
+      "url": "https://www.petfinder.com/dog/billy-46433036/nj/paramus/bonnies-animal-rescue-kingdom-nj627/?referrer_id=7ff2924e-00c7-461e-b506-ff3a48a51140",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Beagle",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tricolor (Brown, Black, u0026 White)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Billy",
+      "description": "Billy is a two year old male beagle who was recently rescued from a high kill shelter in North Carolina....",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433036/1/?bust=1572492209u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433036/1/?bust=1572492209u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433036/1/?bust=1572492209u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433036/1/?bust=1572492209"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-10-31T03:25:07+0000",
+      "published_at": "2019-10-31T03:25:07+0000",
+      "distance": 21.2097,
+      "contact": {
+        "email": "Boniark15@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Paramus",
+          "state": "NJ",
+          "postcode": "07653",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/46433036"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/nj627"
+        }
+      }
+    },
+    "age": "Adult",
+    "coat": "Short",
+    "contact": {
+      "email": "Boniark15@gmail.com",
+      "phone": null,
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Paramus",
+        "state": "NJ",
+        "postcode": "07653",
+        "country": "US"
+      }
+    },
+    "description": "Billy is a two year old male beagle who was recently rescued from a high kill shelter in North Carolina....",
+    "gender": "Male",
+    "id": 46433036,
+    "name": "Billy",
+    "organization_id": "NJ627",
+    "photos": [
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433036/1/?bust=1572492209u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433036/1/?bust=1572492209u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433036/1/?bust=1572492209u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433036/1/?bust=1572492209"
+      }
+    ],
+    "species": "Dog",
+    "size": "Medium",
+    "status": "adoptable",
+    "type": "Dog"
+  },
+  {
+    "data": {
+      "id": 46433143,
+      "organization_id": "CT397",
+      "url": "https://www.petfinder.com/dog/juno-46433143/ct/middletown/wagging-tails-dog-rescue-ct397/?referrer_id=7ff2924e-00c7-461e-b506-ff3a48a51140",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Pit Bull Terrier",
+        "secondary": "Terrier",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": true,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Juno",
+      "description": "Hi my name is Juno.  I am about 1 years old. I am a Pitie mix.  I am a very...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433143/1/?bust=1572494592u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433143/1/?bust=1572494592u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433143/1/?bust=1572494592u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433143/1/?bust=1572494592"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-10-31T04:01:10+0000",
+      "published_at": "2019-10-31T04:01:10+0000",
+      "distance": 72.9612,
+      "contact": {
+        "email": "beata778@yahoo.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Middletown",
+          "state": "CT",
+          "postcode": "06457",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/46433143"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ct397"
+        }
+      }
+    },
+    "age": "Young",
+    "coat": null,
+    "contact": {
+      "email": "beata778@yahoo.com",
+      "phone": null,
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Middletown",
+        "state": "CT",
+        "postcode": "06457",
+        "country": "US"
+      }
+    },
+    "description": "Hi my name is Juno.  I am about 1 years old. I am a Pitie mix.  I am a very...",
+    "gender": "Female",
+    "id": 46433143,
+    "name": "Juno",
+    "organization_id": "CT397",
+    "photos": [
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433143/1/?bust=1572494592u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433143/1/?bust=1572494592u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433143/1/?bust=1572494592u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433143/1/?bust=1572494592"
+      }
+    ],
+    "species": "Dog",
+    "size": "Medium",
+    "status": "adoptable",
+    "type": "Dog"
+  },
+  {
+    "data": {
+      "id": 46429961,
+      "organization_id": "PA235",
+      "url": "https://www.petfinder.com/dog/amelia-bedelia-46429961/pa/philadelphia/paws-philadelphia-animal-welfare-society-pa235/?referrer_id=7ff2924e-00c7-461e-b506-ff3a48a51140",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Mixed Breed",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Amelia Bedelia",
+      "description": "Amelia Bedelia is hoping for her happy ending to her story! She was rescued after her owner could no longer...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46429961/1/?bust=1572470418u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46429961/1/?bust=1572470418u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46429961/1/?bust=1572470418u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46429961/1/?bust=1572470418"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46429961/3/?bust=1572470417u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46429961/3/?bust=1572470417u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46429961/3/?bust=1572470417u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46429961/3/?bust=1572470417"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46429961/2/?bust=1572470421u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46429961/2/?bust=1572470421u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46429961/2/?bust=1572470421u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46429961/2/?bust=1572470421"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-10-30T21:15:08+0000",
+      "published_at": "2019-10-30T21:15:08+0000",
+      "distance": null,
+      "contact": {
+        "email": "adoptions@phillypaws.org",
+        "phone": "(215) 238-9901 ext. 30",
+        "address": {
+          "address1": "100 N. 2nd Street",
+          "address2": "(on the corner of 2nd u0026 Arch Streets)",
+          "city": "Philadelphia",
+          "state": "PA",
+          "postcode": "19106",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/46429961"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/pa235"
+        }
+      }
+    },
+    "age": "Young",
+    "coat": null,
+    "contact": {
+      "email": "adoptions@phillypaws.org",
+      "phone": "(215) 238-9901 ext. 30",
+      "address": {
+        "address1": "100 N. 2nd Street",
+        "address2": "(on the corner of 2nd u0026 Arch Streets)",
+        "city": "Philadelphia",
+        "state": "PA",
+        "postcode": "19106",
+        "country": "US"
+      }
+    },
+    "description": "Amelia Bedelia is hoping for her happy ending to her story! She was rescued after her owner could no longer...",
+    "gender": "Female",
+    "id": 46429961,
+    "name": "Amelia Bedelia",
+    "organization_id": "PA235",
+    "photos": [
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46429961/1/?bust=1572470418u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46429961/1/?bust=1572470418u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46429961/1/?bust=1572470418u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46429961/1/?bust=1572470418"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46429961/3/?bust=1572470417u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46429961/3/?bust=1572470417u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46429961/3/?bust=1572470417u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46429961/3/?bust=1572470417"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46429961/2/?bust=1572470421u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46429961/2/?bust=1572470421u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46429961/2/?bust=1572470421u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46429961/2/?bust=1572470421"
+      }
+    ],
+    "species": "Dog",
+    "size": "Large",
+    "status": "adoptable",
+    "type": "Dog"
+  },
+  {
+    "data": {
+      "id": 46433085,
+      "organization_id": "NY1090",
+      "url": "https://www.petfinder.com/dog/jack-46433085/ny/sagaponack/gimme-shelter-animal-rescue-ny1090/?referrer_id=7ff2924e-00c7-461e-b506-ff3a48a51140",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Welsh Springer Spaniel",
+        "secondary": "Labrador Retriever",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Brown / Chocolate",
+        "secondary": "White / Cream",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Jack",
+      "description": "Hello! My name is Black Jack!! I am a springer spaniel / lab mix! I am 9 weeks old and...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/3/?bust=1572493275u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/3/?bust=1572493275u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/3/?bust=1572493275u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/3/?bust=1572493275"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/1/?bust=1572493271u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/1/?bust=1572493271u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/1/?bust=1572493271u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/1/?bust=1572493271"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/2/?bust=1572493273u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/2/?bust=1572493273u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/2/?bust=1572493273u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/2/?bust=1572493273"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/4/?bust=1572493277u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/4/?bust=1572493277u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/4/?bust=1572493277u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/4/?bust=1572493277"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/5/?bust=1572493278u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/5/?bust=1572493278u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/5/?bust=1572493278u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/5/?bust=1572493278"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-10-31T03:43:56+0000",
+      "published_at": "2019-10-31T03:43:56+0000",
+      "distance": 74.3276,
+      "contact": {
+        "email": "adoptions@gimmeshelteranimalrescue.org",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Sagaponack",
+          "state": "NY",
+          "postcode": "11962",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/46433085"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ny1090"
+        }
+      }
+    },
+    "age": "Baby",
+    "coat": null,
+    "contact": {
+      "email": "adoptions@gimmeshelteranimalrescue.org",
+      "phone": null,
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Sagaponack",
+        "state": "NY",
+        "postcode": "11962",
+        "country": "US"
+      }
+    },
+    "description": "Hello! My name is Black Jack!! I am a springer spaniel / lab mix! I am 9 weeks old and...",
+    "gender": "Male",
+    "id": 46433085,
+    "name": "Jack",
+    "organization_id": "NY1090",
+    "photos": [
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/3/?bust=1572493275u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/3/?bust=1572493275u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/3/?bust=1572493275u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/3/?bust=1572493275"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/1/?bust=1572493271u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/1/?bust=1572493271u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/1/?bust=1572493271u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/1/?bust=1572493271"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/2/?bust=1572493273u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/2/?bust=1572493273u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/2/?bust=1572493273u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/2/?bust=1572493273"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/4/?bust=1572493277u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/4/?bust=1572493277u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/4/?bust=1572493277u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/4/?bust=1572493277"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/5/?bust=1572493278u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/5/?bust=1572493278u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/5/?bust=1572493278u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433085/5/?bust=1572493278"
+      }
+    ],
+    "species": "Dog",
+    "size": "Medium",
+    "status": "adoptable",
+    "type": "Dog"
+  },
+  {
+    "data": {
+      "id": 46433350,
+      "organization_id": "CT397",
+      "url": "https://www.petfinder.com/dog/bernice-46433350/ct/middletown/wagging-tails-dog-rescue-ct397/?referrer_id=7ff2924e-00c7-461e-b506-ff3a48a51140",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Pit Bull Terrier",
+        "secondary": "Black Mouth Cur",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Bernice",
+      "description": "Hi my name is Bernice.  I am about 1.5 years old.  I am a Pitie/ Cur mix with a beautiful...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433350/1/?bust=1572495494u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433350/1/?bust=1572495494u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433350/1/?bust=1572495494u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433350/1/?bust=1572495494"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-10-31T04:20:16+0000",
+      "published_at": "2019-10-31T04:20:16+0000",
+      "distance": 72.9612,
+      "contact": {
+        "email": "beata778@yahoo.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Middletown",
+          "state": "CT",
+          "postcode": "06457",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/46433350"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ct397"
+        }
+      }
+    },
+    "age": "Young",
+    "coat": null,
+    "contact": {
+      "email": "beata778@yahoo.com",
+      "phone": null,
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Middletown",
+        "state": "CT",
+        "postcode": "06457",
+        "country": "US"
+      }
+    },
+    "description": "Hi my name is Bernice.  I am about 1.5 years old.  I am a Pitie/ Cur mix with a beautiful...",
+    "gender": "Female",
+    "id": 46433350,
+    "name": "Bernice",
+    "organization_id": "CT397",
+    "photos": [
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433350/1/?bust=1572495494u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433350/1/?bust=1572495494u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433350/1/?bust=1572495494u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433350/1/?bust=1572495494"
+      }
+    ],
+    "species": "Dog",
+    "size": "Large",
+    "status": "adoptable",
+    "type": "Dog"
+  },
+  {
+    "data": {
+      "id": 46433051,
+      "organization_id": "NJ785",
+      "url": "https://www.petfinder.com/dog/enzo-46433051/nj/phillipsburg/furrytail-endings-canine-rescue-nj785/?referrer_id=7ff2924e-00c7-461e-b506-ff3a48a51140",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Terrier",
+        "secondary": "Australian Shepherd",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [
+        "Playful",
+        "Smart",
+        "Loving"
+      ],
+      "name": "Enzo",
+      "description": "This gorgeous boy is Enzo. He was picked up as a stray a 3 wks ago and brought to a...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/1/?bust=1572492609u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/1/?bust=1572492609u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/1/?bust=1572492609u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/1/?bust=1572492609"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/2/?bust=1572492615u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/2/?bust=1572492615u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/2/?bust=1572492615u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/2/?bust=1572492615"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/3/?bust=1572492624u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/3/?bust=1572492624u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/3/?bust=1572492624u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/3/?bust=1572492624"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/4/?bust=1572492630u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/4/?bust=1572492630u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/4/?bust=1572492630u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/4/?bust=1572492630"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/5/?bust=1572492637u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/5/?bust=1572492637u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/5/?bust=1572492637u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/5/?bust=1572492637"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/6/?bust=1572492648u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/6/?bust=1572492648u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/6/?bust=1572492648u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/6/?bust=1572492648"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-10-31T03:31:41+0000",
+      "published_at": "2019-10-31T03:31:41+0000",
+      "distance": 77.6922,
+      "contact": {
+        "email": "furrytailendings.1103@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Phillipsburg",
+          "state": "NJ",
+          "postcode": "08865",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/46433051"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/nj785"
+        }
+      }
+    },
+    "age": "Baby",
+    "coat": "Medium",
+    "contact": {
+      "email": "furrytailendings.1103@gmail.com",
+      "phone": null,
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Phillipsburg",
+        "state": "NJ",
+        "postcode": "08865",
+        "country": "US"
+      }
+    },
+    "description": "This gorgeous boy is Enzo. He was picked up as a stray a 3 wks ago and brought to a...",
+    "gender": "Male",
+    "id": 46433051,
+    "name": "Enzo",
+    "organization_id": "NJ785",
+    "photos": [
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/1/?bust=1572492609u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/1/?bust=1572492609u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/1/?bust=1572492609u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/1/?bust=1572492609"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/2/?bust=1572492615u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/2/?bust=1572492615u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/2/?bust=1572492615u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/2/?bust=1572492615"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/3/?bust=1572492624u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/3/?bust=1572492624u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/3/?bust=1572492624u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/3/?bust=1572492624"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/4/?bust=1572492630u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/4/?bust=1572492630u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/4/?bust=1572492630u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/4/?bust=1572492630"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/5/?bust=1572492637u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/5/?bust=1572492637u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/5/?bust=1572492637u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/5/?bust=1572492637"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/6/?bust=1572492648u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/6/?bust=1572492648u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/6/?bust=1572492648u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433051/6/?bust=1572492648"
+      }
+    ],
+    "species": "Dog",
+    "size": "Medium",
+    "status": "adoptable",
+    "type": "Dog"
+  },
+  {
+    "data": {
+      "id": 46432979,
+      "organization_id": "NJ785",
+      "url": "https://www.petfinder.com/dog/ivy-46432979/nj/phillipsburg/furrytail-endings-canine-rescue-nj785/?referrer_id=7ff2924e-00c7-461e-b506-ff3a48a51140",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Australian Cattle Dog / Blue Heeler",
+        "secondary": "Labrador Retriever",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White / Cream",
+        "secondary": "Yellow / Tan / Blond / Fawn",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [
+        "Sweet",
+        "Playful",
+        "Smart"
+      ],
+      "name": "Ivy",
+      "description": "This super cute sweetie is Ivy. She was picked up as a stray a month ago and brought to a...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/1/?bust=1572491029u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/1/?bust=1572491029u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/1/?bust=1572491029u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/1/?bust=1572491029"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/2/?bust=1572491053u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/2/?bust=1572491053u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/2/?bust=1572491053u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/2/?bust=1572491053"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/3/?bust=1572491066u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/3/?bust=1572491066u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/3/?bust=1572491066u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/3/?bust=1572491066"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/4/?bust=1572491092u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/4/?bust=1572491092u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/4/?bust=1572491092u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/4/?bust=1572491092"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/5/?bust=1572491105u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/5/?bust=1572491105u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/5/?bust=1572491105u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/5/?bust=1572491105"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/6/?bust=1572491121u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/6/?bust=1572491121u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/6/?bust=1572491121u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/6/?bust=1572491121"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-10-31T03:09:01+0000",
+      "published_at": "2019-10-31T03:09:01+0000",
+      "distance": 77.6922,
+      "contact": {
+        "email": "furrytailendings.1103@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Phillipsburg",
+          "state": "NJ",
+          "postcode": "08865",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/46432979"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/nj785"
+        }
+      }
+    },
+    "age": "Baby",
+    "coat": "Short",
+    "contact": {
+      "email": "furrytailendings.1103@gmail.com",
+      "phone": null,
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Phillipsburg",
+        "state": "NJ",
+        "postcode": "08865",
+        "country": "US"
+      }
+    },
+    "description": "This super cute sweetie is Ivy. She was picked up as a stray a month ago and brought to a...",
+    "gender": "Female",
+    "id": 46432979,
+    "name": "Ivy",
+    "organization_id": "NJ785",
+    "photos": [
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/1/?bust=1572491029u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/1/?bust=1572491029u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/1/?bust=1572491029u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/1/?bust=1572491029"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/2/?bust=1572491053u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/2/?bust=1572491053u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/2/?bust=1572491053u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/2/?bust=1572491053"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/3/?bust=1572491066u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/3/?bust=1572491066u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/3/?bust=1572491066u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/3/?bust=1572491066"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/4/?bust=1572491092u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/4/?bust=1572491092u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/4/?bust=1572491092u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/4/?bust=1572491092"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/5/?bust=1572491105u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/5/?bust=1572491105u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/5/?bust=1572491105u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/5/?bust=1572491105"
+      },
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/6/?bust=1572491121u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/6/?bust=1572491121u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/6/?bust=1572491121u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46432979/6/?bust=1572491121"
+      }
+    ],
+    "species": "Dog",
+    "size": "Medium",
+    "status": "adoptable",
+    "type": "Dog"
+  },
+  {
+    "data": {
+      "id": 46433054,
+      "organization_id": "CT31",
+      "url": "https://www.petfinder.com/dog/puppy-stormy-46433054/ct/danbury/danbury-animal-welfare-society-inc-daws-ct31/?referrer_id=7ff2924e-00c7-461e-b506-ff3a48a51140",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Puppy Stormy",
+      "description": "Puppy Stormy is looking for her forever home. She is an adorable 9-week-old lab mix pup, She is a very...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433054/1/?bust=1572492729u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433054/1/?bust=1572492729u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433054/1/?bust=1572492729u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433054/1/?bust=1572492729"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-10-31T03:33:27+0000",
+      "published_at": "2019-10-31T03:33:27+0000",
+      "distance": 40.6716,
+      "contact": {
+        "email": "daws@daws.org",
+        "phone": "(203) 744-3297",
+        "address": {
+          "address1": "147 Grassy Plain St.",
+          "address2": null,
+          "city": "Danbury",
+          "state": "CT",
+          "postcode": "06813",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/46433054"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ct31"
+        }
+      }
+    },
+    "age": "Baby",
+    "coat": null,
+    "contact": {
+      "email": "daws@daws.org",
+      "phone": "(203) 744-3297",
+      "address": {
+        "address1": "147 Grassy Plain St.",
+        "address2": null,
+        "city": "Danbury",
+        "state": "CT",
+        "postcode": "06813",
+        "country": "US"
+      }
+    },
+    "description": "Puppy Stormy is looking for her forever home. She is an adorable 9-week-old lab mix pup, She is a very...",
+    "gender": "Female",
+    "id": 46433054,
+    "name": "Puppy Stormy",
+    "organization_id": "CT31",
+    "photos": [
+      {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433054/1/?bust=1572492729u0026width=100",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433054/1/?bust=1572492729u0026width=300",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433054/1/?bust=1572492729u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46433054/1/?bust=1572492729"
+      }
+    ],
+    "species": "Dog",
+    "size": "Medium",
+    "status": "adoptable",
+    "type": "Dog"
+  }
+]

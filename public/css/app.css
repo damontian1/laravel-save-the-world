@@ -1,4 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Nunito);@charset "UTF-8";
+@import url(https://fonts.googleapis.com/css?family=Lustria&display=swap);@import url(https://fonts.googleapis.com/css?family=Lato:400,700,900);@charset "UTF-8";
+
+/*-----------------------
+	SETUP
+-----------------------*/
 
 /*!
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
@@ -11097,6 +11101,377 @@ a.text-dark:focus {
   .table .thead-dark th {
     color: inherit;
     border-color: #dee2e6;
+  }
+}
+
+.heading-text {
+  font-family: "Lustria";
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.heading-text__large {
+  font-family: "Lustria";
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.marker:after {
+  font-family: "Font Awesome 5 Free";
+  content: "\F004";
+  font-weight: 900;
+  color: #d9534f;
+  font-size: 1.7rem;
+}
+
+.marker > span {
+  font-size: 1.2rem;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 0.4rem;
+  color: white;
+}
+
+/*-----------------------
+	DESKTOP
+-----------------------*/
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Lato", serif;
+}
+
+.navbar-nav li.nav-item div.nav-link a {
+  text-decoration: none;
+  color: black;
+  font-size: 1.2rem;
+}
+
+.categories {
+  font-weight: bold;
+}
+
+.btn-danger {
+  background-color: #d9534f !important;
+  border-color: #d9534f !important;
+}
+
+.albums {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1rem;
+}
+
+.albums .album {
+  background: white;
+  border: 12px solid white;
+  box-shadow: 0 3rem 3rem -1rem rgba(10, 10, 10, 0.2);
+}
+
+.albums .album img {
+  width: 100%;
+  height: 350px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.albums .album .caption {
+  font-size: 1rem;
+}
+
+section#dog-bio {
+  background: rgba(217, 83, 79, 0.2);
+}
+
+section#dog-bio .gallery {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: center;
+          justify-content: center;
+}
+
+.li_layout1 {
+  display: inline;
+  padding: 10px;
+}
+
+.ul_layout1 {
+  list-style-type: none;
+}
+
+.tab-content {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 4em;
+}
+
+.grid-item {
+  width: 200px;
+}
+
+.grid {
+  -webkit-animation: 1s fadeIn ease-in-out;
+          animation: 1s fadeIn ease-in-out;
+}
+
+@-webkit-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.center {
+  text-align: center;
+}
+
+.border {
+  border: 1px solid black;
+}
+
+#white {
+  color: black;
+}
+
+#white1 {
+  color: white;
+}
+
+#center {
+  text-align: center;
+}
+
+.tablist1 {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: center;
+          justify-content: center;
+  margin-bottom: 20px;
+  font-size: 10px;
+}
+
+.fancybox-overlay.fancybox-overlay-fixed {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.dog-info {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: justify;
+          justify-content: space-between;
+}
+
+.dog-info .dog-info__right {
+  font-size: 1.5em;
+  padding: 0 3rem;
+  line-height: 2.5;
+}
+
+.dog-info .dog-info__right > p {
+  font-size: 1.1rem;
+  margin: 0;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.other_breeds1,
+.location_info1 {
+  height: 100%;
+  width: 100%;
+  padding: 2em 0;
+}
+
+.other_dogs1 {
+  width: 100%;
+}
+
+.other_dogs2 {
+  width: 100px;
+  border: 7px solid white;
+  box-shadow: 0 0 20px gray;
+  -webkit-transition: 0.25s ease;
+  transition: 0.25s ease;
+}
+
+.dog_profile1 {
+  width: 70px;
+  height: 70px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border: 5px solid white;
+  box-shadow: 0 0 20px rgba(136, 136, 136, 0.82);
+  -webkit-transition: 0.25s ease;
+  transition: 0.25s ease;
+}
+
+.dog_profile2 {
+  width: 100%;
+  max-width: 500px;
+  border: 12px solid white;
+  background: lightgray;
+  box-shadow: 0 0 20px rgba(136, 136, 136, 0.82);
+}
+
+.load_button1 {
+  width: 50%;
+  height: 100px;
+  font-size: 60px;
+  margin-left: 25%;
+}
+
+.number {
+  display: inline;
+}
+
+.about_thumbnail1 {
+  height: 650px;
+  padding: 1.5em;
+}
+
+.thumbnail > img {
+  width: 610px;
+}
+
+.location_button1 {
+  margin-bottom: 10px;
+}
+
+i.fa.fa-heart {
+  color: #D9534F;
+}
+
+span.glyphicon.glyphicon-heart {
+  color: #D9534F;
+}
+
+a.nav-link {
+  color: #D9534F;
+}
+
+a.nav-link,
+a.nav-item {
+  font-size: 25px;
+}
+
+.load_button2 {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: end;
+          justify-content: flex-end;
+}
+
+.navbar1 {
+  margin: 0.5em 0px;
+}
+
+.navbar2 {
+  font-size: 1.9em;
+}
+
+.navbar3 {
+  font-size: 1.5em;
+  padding-top: 5px;
+}
+
+.hamburger_menu1 {
+  background-color: #F8F8F8;
+}
+
+#slideshow,
+img.bgM {
+  height: auto;
+  width: 80%;
+  z-index: -9999;
+}
+
+.navbar4 {
+  margin: 0;
+}
+
+.jumbotron {
+  background-color: white;
+}
+
+.pagination {
+  margin: 50px 0;
+  font-size: 2em;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: center;
+          justify-content: center;
+  letter-spacing: 0.2em;
+}
+
+.page {
+  margin: 0 1em;
+}
+
+.banner-text > h1 {
+  font-size: 4rem;
+  white-space: nowrap;
+}
+
+.banner-text > p {
+  font-size: 1.5rem;
+}
+
+/*-----------------------
+	MOBILE
+-----------------------*/
+
+@media (max-width: 992px) {
+  .albums {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .dog_profile2 {
+    max-width: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .banner-text > h1 {
+    font-size: 3.5rem;
+  }
+
+  .banner-text > p {
+    font-size: 1.3rem;
+  }
+
+  .navbar-nav li.nav-item div.nav-link a {
+    font-size: 1rem;
+  }
+
+  .albums {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .dog-info {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+            flex-direction: column;
+  }
+
+  .dog-info .dog-info__right {
+    padding-top: 4rem;
+  }
+
+  .dog_profile2 {
+    max-width: 450px;
   }
 }
 

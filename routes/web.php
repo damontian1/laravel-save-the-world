@@ -14,6 +14,14 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/about', function () {
+    return view('about');
+});
+Route::get('/all-dogs', function () {
+    return view('all-dogs');
+});
+Route::get('/dog-show/{id}', 'DogsController@index');
+
 
 Auth::routes();
 
