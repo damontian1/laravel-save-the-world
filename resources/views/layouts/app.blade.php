@@ -20,9 +20,9 @@
     <!-- User CSS -->
     <link href='/css/app.css' rel="stylesheet">
 </head>
-<body style="display: flex; flex-direction: column; min-height: 100vh;">
+<body style="display: flex; flex-direction: column; min-height: 100vh; min-width: 350px;">
     @include("partials.navbar")
-    <div id="app" style="flex: 1; min-width: 350px;">
+    <div id="app" style="flex: 1;">
         <main>
             @yield('content')
         </main>

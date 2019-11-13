@@ -11445,15 +11445,20 @@ img.bgM {
 
 @media (max-width: 768px) {
   .banner-text > h1 {
-    font-size: 3.5rem;
+    font-size: 2.5rem;
   }
 
   .banner-text > p {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
   }
 
   .navbar-nav li.nav-item div.nav-link a {
     font-size: 1rem;
+    font-weight: bold;
+  }
+
+  .nav-tabs .nav-item a.nav-link {
+    font-size: 1.2rem;
   }
 
   .albums {
