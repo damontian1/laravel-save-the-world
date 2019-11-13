@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="wrapper2" style="background-image: url('/assets/banner.jpg'); margin: 0 auto;height: 850px;background-size: cover;background-position: center 25%;">
+<div class="wrapper2">
 </div>
 <div class="container">
     <div class="banner-text" style="padding: 5em 0;width: 100%;height: 100%;margin: 5em 0;">

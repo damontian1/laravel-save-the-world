@@ -39,6 +39,13 @@
 body {
   font-family: 'Lato', serif;
 }
+.wrapper2 {
+  background-image: url('/assets/banner.jpg');
+  margin: 0 auto;
+  height: 650px;
+  background-size: cover;
+  background-position: center 25%;
+}
 .navbar-nav {
   li.nav-item {
     div.nav-link {
